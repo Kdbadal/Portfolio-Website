@@ -30,13 +30,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 Deployment is done via [Netlify](https://www.netlify.com/).
 
-## Authors
 
-* **Aditya Gundecha** - *Initial work* 
-
-## License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
